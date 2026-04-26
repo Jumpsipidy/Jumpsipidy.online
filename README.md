@@ -1,88 +1,102 @@
-🌐 JUMPSIPIDY ONLINE & ANGIS ATSAKYMAI
+⚡ JUMPSIPIDY CYBER-ECOSYSTEM ⚡
 
-Welcome to the Jumpsipidy Cyber-Ecosystem. This project is a highly interactive, cyberpunk-themed web application and Android APK. It serves two main purposes:
+A highly interactive, cyberpunk-themed web application and Android APK built entirely from scratch.
 
-A Secure Vault: A gatekept repository for "Angis Atsakymai" (educational programming solutions), protected by custom security protocols.
+🚀 The Mission
 
-A Creator Portfolio: A premium, interactive overview of my video editing and programming journey.
+This project serves two main purposes:
 
-This project was built entirely from scratch using HTML5, CSS3, and Vanilla JavaScript, featuring advanced CSS animations, custom SVG glitch filters, and an interactive HTML5 Canvas particle mesh.
+🔐 A Secure Vault for educational programming solutions (Angis Atsakymai) protected by extreme, interactive counter-measures.
 
-📱 Mobile Application (APK)
+🎬 A Premium Creator Portfolio (/jumpsipidy) showcasing my dynamic video editing and programming journey.
 
-This web application has been successfully compiled into a native Android Application (.apk) using Median (formerly GoNative).
+📱 Mobile Native Experience (APK)
 
-The APK provides a seamless, full-screen immersive experience on Android devices.
+This web application has been seamlessly compiled into a native Android Application (.apk) using Median.
 
-Touch-events and responsive layouts have been optimized so the interactive glowing mouse trackers and particles work flawlessly on mobile touchscreens.
+Feature
 
-🚀 Key Features
+Description
 
-🔐 1. The Gatekeeper Protocol
+🕹️ Immersive UI
 
-To prevent unauthorized access (bots and random visitors) from reaching the Angis answers, the main site is protected by a custom Gatekeeper.
+Flawless, full-screen native Android experience.
 
-Visitors must answer a specific security question known only to classmates.
+👆 Touch-Optimized
 
-Active Defense (Jumpscare): 1 incorrect attempt triggers a localized audio/visual jumpscare (scream.mp3 + distorted imagery).
+Custom mouse-tracking glow effects and HTML5 Canvas particle physics translated to support mobile touch events flawlessly.
 
-System Lockdown: 2 incorrect attempts trigger a full UI lockdown. The screen turns red, a siren flashes, a terminal logs fake tracing data, and the user is locked out for 30 seconds.
+🔥 Core System Features
 
-💻 2. The Angis Payload Terminal (Main App)
+🛑 1. The Gatekeeper Protocol
 
-Once authenticated, users enter the main system.
+Built to keep the bots, crawlers, and randoms out.
 
-Hacker Terminal UI: Clicking a level button decrypts the specific Angis Python code payload.
+🧠 Classmate Verification: Only those with the exact required knowledge can pass the firewall.
 
-Variable-Speed Typewriter: The code types itself out into the terminal with a simulated, variable-speed hacking effect, complete with a blinking cursor and custom Abstract Syntax Tree (AST) color highlighting.
+😱 Active Defense (Jumpscare): 1 incorrect attempt triggers a loud, localized audio/visual jumpscare (scream.mp3 + rapidly distorted imagery).
 
-Custom Context Menu: Right-clicking anywhere on the site opens a custom cyber-menu to instantly copy the code, clear the memory, or run system diagnostics.
+🚨 System Lockdown: 2 incorrect attempts trigger a full UI lockdown. The screen turns red, sirens flash, fake tracing data logs into the terminal, and the user is frozen out for 30 seconds.
 
-🎬 3. The Jumpsipidy Portfolio (/jumpsipidy)
+💻 2. Angis Payload Terminal (Main App)
 
-A dedicated premium overview page showcasing my digital content creation.
+The vault is open.
 
-Dual-Language Boot Sequence: Users choose between LT/EN before the system boots up.
+🔓 Hacker Terminal UI: Clicking a level button decrypts specific Python code payloads.
 
-Scroll-Reveal Animations: 3D perspective tilts and smooth fade-ins trigger as you scroll down the page.
+⌨️ Variable-Speed Typewriter: The code types itself out into the terminal with a simulated hacking effect, complete with a blinking cursor and custom Abstract Syntax Tree (AST) syntax highlighting.
 
-Autoplaying Video Previews: Features custom HTML5 video loops demonstrating Adobe Premiere Pro and After Effects skills.
+🖱️ Cyber Context Menu: Right-clicking anywhere on the site bypasses the browser's default menu to open a custom cyber-menu to instantly copy the code, clear the memory, or run diagnostics.
 
-Interactive Journey Timeline: A beautifully styled, glowing chronological timeline of my programming and content creation milestones from 2021 to 2026.
+🎬 3. Jumpsipidy Portfolio (/jumpsipidy)
 
-📁 Repository Structure
+My digital content creation overview.
 
-/
-├── index.html                  # The Gatekeeper & Angis Payload Terminal
-├── bg-music.mp3                # Landing screen ambient music
-├── scream.mp3                  # Jumpscare audio file
-├── ussr.mp3                    # First-strike failure audio file
-├── jumpscare.jpg               # Jumpscare visual asset
-│
-└── jumpsipidy/
-    ├── index.html              # Creator Portfolio / Overview Page
-    ├── 2026-04-21 02-57-24.mp4 # Premiere Pro looping preview video
-    └── 2026-04-21 03-07-30 (online-video-cutter.com).mp4 # YouTube teaser video
+🌍 Dual-Language Boot Sequence: Users choose between LT or EN before the system boots.
+
+🌀 Scroll-Reveal Animations: 3D perspective tilts and smooth fade-ins trigger interactively as you scroll down the page.
+
+🎥 Autoplaying Previews: Custom HTML5 video properties loop editing previews silently in the background.
+
+⏳ Interactive Journey Timeline: A beautifully styled, glowing chronological timeline of my programming and content creation milestones from 2021 to 2026.
+
+📂 Repository Structure
+
+📦 Jumpsipidy-Ecosystem
+ ┣ 📜 index.html                  # Gatekeeper & Angis Payload Terminal
+ ┣ 🎵 bg-music.mp3                # Landing screen ambient background music
+ ┣ 😱 scream.mp3                  # Active defense jumpscare audio
+ ┣ 🔴 ussr.mp3                    # First-strike failure audio
+ ┣ 👁️ jumpscare.jpg               # Distorted visual jumpscare asset
+ ┗ 📂 jumpsipidy/                 # Creator Portfolio / Overview Directory
+   ┣ 📜 index.html                # Portfolio HTML & Logic
+   ┣ 🎞️ 2026-04-21 02-57-24.mp4   # Premiere Pro looping preview video
+   ┗ 🎥 2026-04-21 03-07-30...mp4 # YouTube teaser video
+
 
 
 ⚙️ Setup & Installation
 
-Web Hosting (GitHub Pages / Vercel / Netlify)
+🌐 Web Hosting (GitHub Pages / Vercel)
 
-Clone this repository.
+Clone this repository to your machine:
 
-Ensure all .mp4, .mp3, and .jpg media assets are in their correct directories.
+git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
 
-Host the root directory. No build step (Node.js/NPM) is required.
 
-Android Application
 
-Download the provided .apk file (generated via Median).
+Verify all media assets (.mp4, .mp3, and .jpg) are uploaded to their correct root or sub-directories.
+
+Host the root directory. No build step (Node.js/NPM) is required!
+
+📱 Android Application Installation
+
+Download the provided .apk file from the Releases tab.
 
 Transfer the file to your Android device.
 
-Enable "Install from Unknown Sources" in your Android settings.
+Enable "Install from Unknown Sources" in your Android security settings.
 
-Tap the APK to install the Jumpsipidy ecosystem directly to your phone.
+Install & Launch to experience the ecosystem directly on your phone.
 
-Project created and engineered by Elijas (Jumpsipidy).
+🌐 Connect With Me
