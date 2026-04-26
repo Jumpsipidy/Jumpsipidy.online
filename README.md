@@ -56,7 +56,7 @@ This web application has been seamlessly compiled into a native Android Applicat
    ┣ 📜 index.html                # Portfolio HTML & Logic
    ┣ 🎞️ 2026-04-21 02-57-24.mp4   # Premiere Pro looping preview video
    ┗ 🎥 2026-04-21 03-07-30...mp4 # YouTube teaser video
-
+```
 ⚙️ Setup & Installation
 🌐 Web Hosting (GitHub Pages / Vercel)
 
@@ -82,10 +82,3 @@ YouTube: @Jumpsipidy | Twitch: jumpsipidy | TikTok: @jumpsipidy
 
 Engineered, Designed, and Built from Scratch by Elijas (Jumpsipidy) © 2026
 
-
-### Quick Guide to what this formatting does:
-* Using `#` makes the text a **Huge Header**.
-* Using `##` makes it a **Medium Header**.
-* Using `> ` adds a sleek grey line next to the text like a **Quote Block**.
-* Using `**text**` makes the text **Bold**.
-* Putting text inside `
